@@ -451,7 +451,7 @@ section {
   color: #3f6890;
 }
 .acts .nav-link p {
-  font-size: 14px;
+  font-size: var(--bs-body-font-size);
   margin-bottom: 0;
 }
 .acts .nav-link:hover {
@@ -763,7 +763,7 @@ section {
   color: #00a596;
 }
 .services .description {
-  font-size: 14px;
+  font-size: var(--bs-body-font-size);
   margin-left: 40px;
   line-height: 24px;
   margin-bottom: 0;
@@ -1404,7 +1404,7 @@ section {
   font-weight: 700;
 }
 #footer .footer-top .footer-contact p {
-  font-size: 14px;
+  font-size: var(--bs-body-font-size);
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Lato", sans-serif;
