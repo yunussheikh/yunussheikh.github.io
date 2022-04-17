@@ -1189,9 +1189,12 @@ section {
   font-size: 14px;
   color: #2079a1;
 }
+
+@media (max-width:1000px){
 .contact .info .email,
 .contact .info .phone {
   margin-top: 40px;
+}
 }
 .contact .info .email:hover i,
 .contact .info .address:hover i,
